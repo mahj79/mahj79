@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mahj79
+- 👋 Hi, I’m Jack! Checkout my portfolio project I'm working on building out to learn more about me!
 - 👀 I’m interested in developing my skills to become a well versed full stack engineer
 - 🌱 I’m currently improving my front end skills
